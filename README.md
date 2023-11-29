@@ -4,7 +4,10 @@ Data and code for the manuscript "Single Cell CD4 and CD8 Secretome Profiling Re
 The files include:
 
 A metadata file with deidentified patient information
+
 A raw data file
+
 Code for the pseudobulk analysis
+
 Code for the single cell analysis
 
