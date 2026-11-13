@@ -11,3 +11,5 @@ Code for the pseudobulk analysis
 
 Code for the single cell analysis
 
+Analysis code developed by [Jessica Root](https://github.com/jlynnroot)
+
